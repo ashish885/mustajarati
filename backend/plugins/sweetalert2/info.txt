@@ -1,0 +1,1 @@
+https://www.jsdelivr.com/package/npm/sweetalert2?path=dist

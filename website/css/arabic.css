@@ -1,0 +1,44 @@
+/* @font-face {
+    font-family: NeoSansArabic;
+    src: url(../fonts/Radomir\ Tinkov\ -\ Gilroy-Black.otf);
+}
+
+* {
+    font-family: NeoSansArabic
+}
+
+.top_header .navbar-nav>li>a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: NeoSansArabic!important
+} */
+
+.slick-slider {
+    margin-bottom: 30px;
+    direction: ltr;
+    text-align: right;
+}
+
+.feature-box {
+    text-align: right;
+}
+
+.newsletterbox {
+    direction: ltr;
+    text-align: left;
+}
+
+.app-btn {
+    text-align: right;
+}
+
+@media screen and (max-width: 768px) {
+    .col-md-3.col-sm-6 .footer-box {
+        text-align: right !important;
+    }
+}

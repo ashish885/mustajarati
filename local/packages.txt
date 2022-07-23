@@ -1,0 +1,17 @@
+ii  libapache2-mod-php                         1:7.2+60ubuntu1                                 all          server-side, HTML-embedded scripting language (Apache 2 module) (default)
+ii  libapache2-mod-php7.2                      7.2.24-0ubuntu0.18.04.12                        amd64        server-side, HTML-embedded scripting language (Apache 2 module)
+ii  php-cli                                    1:7.2+60ubuntu1                                 all          command-line interpreter for the PHP scripting language (default)
+ii  php-common                                 1:60ubuntu1                                     all          Common files for PHP packages
+ii  php-curl                                   1:7.2+60ubuntu1                                 all          CURL module for PHP [default]
+ii  php-mbstring                               1:7.2+60ubuntu1                                 all          MBSTRING module for PHP [default]
+ii  php7.2-cli                                 7.2.24-0ubuntu0.18.04.12                        amd64        command-line interpreter for the PHP scripting language
+ii  php7.2-common                              7.2.24-0ubuntu0.18.04.12                        amd64        documentation, examples and common module for PHP
+ii  php7.2-curl                                7.2.24-0ubuntu0.18.04.12                        amd64        CURL module for PHP
+ii  php7.2-gd                                  7.2.24-0ubuntu0.18.04.12                        amd64        GD module for PHP
+ii  php7.2-json                                7.2.24-0ubuntu0.18.04.12                        amd64        JSON module for PHP
+ii  php7.2-mbstring                            7.2.24-0ubuntu0.18.04.12                        amd64        MBSTRING module for PHP
+ii  php7.2-mysql                               7.2.24-0ubuntu0.18.04.12                        amd64        MySQL module for PHP
+ii  php7.2-opcache                             7.2.24-0ubuntu0.18.04.12                        amd64        Zend OpCache module for PHP
+ii  php7.2-pgsql                               7.2.24-0ubuntu0.18.04.12                        amd64        PostgreSQL module for PHP
+ii  php7.2-readline                            7.2.24-0ubuntu0.18.04.12                        amd64        readline module for PHP
+ii  php7.2-sqlite3                             7.2.24-0ubuntu0.18.04.12                        amd64        SQLite3 module for PHP
